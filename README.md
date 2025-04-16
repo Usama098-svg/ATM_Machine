@@ -1,7 +1,7 @@
-💳 Java ATM Machine Project
+<h1>💳 Java ATM Machine Project</h1>
 This is a simple ATM Machine simulation project developed in Java, designed to demonstrate the core functionalities of an ATM system. The project is built using object-oriented programming (OOP) principles and runs in a console-based environment.
 
-🛠 Features
+<h1>🛠 Features</h1>
 User authentication with PIN
 
 Check account balance
@@ -10,18 +10,14 @@ Deposit money
 
 Withdraw money
 
-View transaction history
-
 Exit system safely
 
-📁 Project Structure
+<h1>📁 Project Structure</h1>
 ATM.java – Main class handling user interactions and transaction flow
 
-Account.java – Contains account details and methods for deposit, withdrawal, and balance check
+ATM Machine Class – Contains account details and methods for deposit, withdrawal, and balance check
 
-Transaction.java – Optional class to manage and display transaction history (if implemented)
-
-🚀 Technologies Used
+<h1>🚀 Technologies Used</h1>
 Java (JDK 8 or above)
 
 Console/Terminal interface
